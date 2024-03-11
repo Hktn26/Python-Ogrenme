@@ -7,3 +7,6 @@ list    list [1,2,3]
 set      set {1,2,3}
 dictionary  dict {"name":"Tom","age":25}
 tuple      tup (1,2,3)
+
+
+%ls -> listeleme
